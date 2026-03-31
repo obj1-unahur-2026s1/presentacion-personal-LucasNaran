@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Narancio D. Lucas
+- Vivo en Ituzaingó
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Estoy haciendo la tecnicatura universitaria en programación de videojuegos.
+- Este mes empecé en el taller cultural de coro de la UNAHUR.
